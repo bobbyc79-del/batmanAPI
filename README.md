@@ -85,6 +85,13 @@ The app sends a request to a fictional API and displays results in the terminal.
 - Add Python script  
 
 
+## Added:
+- requirements.txt
+- batmanAPI.py
+- docs/release_note.md
+
+  ## Updated README.md
+  
 ## Contributing
 
 Contributions are welcome.
